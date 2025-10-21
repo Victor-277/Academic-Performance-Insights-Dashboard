@@ -24,7 +24,3 @@ Is there a pattern among students who did not pass (by subject, assessment type,
 # 🛠️ Tools
 
 Power BI • ZoomCharts Drill Down Visuals • Google Slides
-
-How often do students achieve perfect scores, and in which subjects?
-
-For a selected student, how have their scores and averages changed throughout the year?
